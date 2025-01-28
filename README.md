@@ -2,9 +2,9 @@
 # Real-Time People Counting System with YOLOv8 and OpenCV
 
 
-![Head Counting](https://github.com/stephen-olet/Head_Counting_System/blob/master/image_file.png))
+![Head Counting](https://github.com/stephen-olet/Head_Counting_System/blob/master/image_file.png)
 
-This repository contains the code for a real-time people-counting system using YOLOv8 and OpenCV. The system utilizes YOLOv8, a state-of-the-art object detection algorithm, to detect people in images and videos. Additionally, it includes a custom class that can be used for detecting people without relying on YOLOv8.
+This repository contains the code for a real-time head-counting system using YOLOv8 and OpenCV. The system utilizes YOLOv8, a state-of-the-art object detection algorithm, to detect people in images and videos. Additionally, it includes a custom class that can be used for detecting people without relying on YOLOv8.
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ The real-time head-counting system is designed to detect and count the number of
 
 ## Installation
 
-To use the real-time people counting system, follow these steps to set up the environment:
+To use the real-time head counting system, follow these steps to set up the environment:
 
 1. Clone this GitHub repository to your local machine:
 
@@ -41,9 +41,9 @@ To use the real-time people counting system, follow these steps to set up the en
 
 This we can use to detect people in a camera frame and also get a count of people who are present on the screen now.
 
-### Running the People Counting System
+### Running the Head Counting System
 
-To run the real-time people counting system using YOLOv8 and OpenCV, execute the following command:
+To run the real-time head counting system using YOLOv8 and OpenCV, execute the following command:
 
 \`python countingYolov8.py\`
 
