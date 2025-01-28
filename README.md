@@ -26,7 +26,7 @@ To use the real-time head counting system, follow these steps to set up the envi
 1. Clone this GitHub repository to your local machine:
 
    \`git clone https://github.com/stephen-olet/Head_Counting_System.git`
-   
+
 
 2. Install the required dependencies. It is recommended to create a virtual environment before installing the dependencies:
 
